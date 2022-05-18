@@ -1,0 +1,8 @@
+.header {
+  display: grid;
+  grid-template-columns: 1fr 1fr 2fr;
+}
+
+.myName {
+  border: 1px solid black;
+}
